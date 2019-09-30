@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SoundBoard</string>
+    <string name="a_thousand_miles">A thousand Miles</string>
+    <string name="scale">Scale</string>
+    <string name="play_np">Play NP</string>
+    <string name="g">G#</string>
 </resources>
